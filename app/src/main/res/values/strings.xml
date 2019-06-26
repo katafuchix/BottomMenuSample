@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomMenuSample</string>
+    <string name="button01">BottomSheetDialogFragmentで表示</string>
+    <string name="pop01">BottomSheetDialogで表示</string>
+    <string name="button02">Button 02</string>
+    <string name="pop02">Pop 02</string>
+</resources>
